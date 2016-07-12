@@ -1,0 +1,13 @@
+function oddeven(number)
+{
+  var a = parseInt(number);
+	if (a%2===0)
+	{
+		document.getElementById("out").innerHTML = "This number is even.";
+	}
+	
+	else
+	{
+		document.getElementById("out").innerHTML = "This number is odd.";
+	}
+};
