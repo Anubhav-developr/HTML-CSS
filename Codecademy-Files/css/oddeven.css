@@ -1,0 +1,33 @@
+body
+{
+	background-color: #EAFAF1;
+}
+
+#head1
+{
+	color: #F8C471;
+	font-family: Great Vibes, Arial;
+	font-size: 800%;
+	text-align:center;
+}
+
+#inp1
+{
+	font-family: Arial;
+	font-size:100%;
+	display:block;
+}
+
+#inp2
+{
+	font-family: Arial;
+	font-size:100%;
+	display:block;
+}
+
+#out
+{
+	font-family: Monotype Corsiva;
+	font-size:400%;
+	text-align:center;
+}
