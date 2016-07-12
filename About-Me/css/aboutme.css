@@ -1,0 +1,66 @@
+/* Styling for aboutme.html */
+/* © 2015 G Ravi Teja */
+
+body
+{
+	font-family: KleinSlabserif;
+	text-align: justify;
+	background-image: url('../images/bg-1.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+a
+{
+	text-decoration: none;
+	color: brown;
+}
+
+a:hover
+{
+	color: black;
+}
+
+.snetwork
+{
+	opacity: 0.6;
+}
+
+.snetwork:hover
+{
+	opacity: 1.0;
+}
+
+#gallery
+{
+	font-family: KleinSlabserif;
+	font-size: 400%;
+	color: brown;
+}
+
+#gallery:hover
+{
+	text-decoration: underline;
+	color: black;
+}
+
+#alert
+{
+	font-family: Arial Black;
+	font-size: 50%;
+	color: black;
+}
+
+h1
+{
+	font-size: 600%;
+	font-family: Great Vibes;
+	color: black;
+}
+
+h2
+{
+	font-family: Great Vibes;
+	font-size: 450%;
+	color: black;
+}
