@@ -1,0 +1,54 @@
+body
+{
+	color:white;
+}
+
+#table1
+{
+	font-family:Arial;
+	font-size:20px;
+}
+
+#table2
+{
+	font-family:Georgia;
+	font-size:36px;
+}
+
+.text1
+{
+	font-family:Times New Roman;
+	font-size:20px;
+}
+
+h2
+{
+	font: Georgia;
+	font-size:36px;
+}
+
+#div1
+{
+	width: 1088px;
+	padding: 5px;
+	border: 10px solid navy;
+	margin: 25px;
+}
+
+a:link
+{
+	color: #000000;
+	text-decoration: none;
+}
+
+a:hover
+{
+	text-decoration: underline;
+	color: brown;
+}
+
+a:active
+{
+	color: #0000FF;
+	text-decoration: underline;
+}
