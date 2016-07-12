@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Even or Odd</title>
+	<link type="text/css" rel="stylesheet" href="css/oddeven.css" />
+</head>
+<body>
+<script>
+	function oddeven (n)
+	{
+		var a = parseInt(n);
+		var result = "";
+		if (a%2===0)
+		{
+			result = "This number is even.";
+		}
+	
+		else
+		{
+			result = "This number is odd.";
+		}
+		return result;
+	};
+</script>
+		<div id="head1">Even Odd</div>
+		<div id="inp1"><input type="text" name="n" placeholder="Enter only numbers." required /></div>
+		<div id="inp2"><input type="submit" value="Check and know!" onclick="oddeven(n)" /></div>
+		<br><br><br>
+		<div id="out"></div>
+</body>
+</html>
